@@ -6,9 +6,9 @@ baseurl:           ""
 url:               "localhost:4000"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  allan950404
+github_username:   allan9595
+facebook_username: profile.php?id=100007749556813
 
 # Build settings
 markdown:          kramdown
